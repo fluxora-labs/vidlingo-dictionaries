@@ -12,5 +12,13 @@
       "dictionary.json": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/es-2026-07-21/es-dictionary.json",
       "lemma-lookup.json": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/es-2026-07-21/es-lemma-lookup.json"
     }
+  },
+  "de": {
+    "version": "2026-07-21",
+    "assets": {
+      "dictionary.json": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/de-2026-07-21/de-dictionary.json",
+      "lemma-lookup.json": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/de-2026-07-21/de-lemma-lookup.json",
+      "compound-model.json": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/de-2026-07-21/de-compound-model.json"
+    }
   }
 }
