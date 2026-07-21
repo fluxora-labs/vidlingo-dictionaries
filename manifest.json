@@ -20,5 +20,12 @@
       "lemma-lookup.json": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/de-2026-07-21/de-lemma-lookup.json",
       "compound-model.json": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/de-2026-07-21/de-compound-model.json"
     }
+  },
+  "zh": {
+    "version": "2026-07-21",
+    "assets": {
+      "dictionary.json": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/zh-2026-07-21/zh-dictionary.json",
+      "jieba.wasm": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/zh-2026-07-21/zh-jieba.wasm"
+    }
   }
 }
