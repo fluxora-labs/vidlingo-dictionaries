@@ -27,5 +27,13 @@
       "dictionary.json": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/zh-2026-07-21/zh-dictionary.json",
       "jieba.wasm": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/zh-2026-07-21/zh-jieba.wasm"
     }
+  },
+  "ko": {
+    "version": "2026-07-21",
+    "assets": {
+      "dictionary.json": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ko-2026-07-21/ko-dictionary.json",
+      "garu-model.gmdl": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ko-2026-07-21/ko-garu-model.gmdl",
+      "garu_wasm_bg.wasm": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ko-2026-07-21/ko-garu_wasm_bg.wasm"
+    }
   }
 }
