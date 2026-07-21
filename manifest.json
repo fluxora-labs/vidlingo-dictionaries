@@ -35,5 +35,23 @@
       "garu-model.gmdl": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ko-2026-07-21/ko-garu-model.gmdl",
       "garu_wasm_bg.wasm": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ko-2026-07-21/ko-garu_wasm_bg.wasm"
     }
+  },
+  "ja": {
+    "version": "2026-07-21",
+    "assets": {
+      "dictionary.json": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ja-2026-07-21/ja-dictionary.json",
+      "base.dat.gz": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ja-2026-07-21/ja-base.dat.gz",
+      "check.dat.gz": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ja-2026-07-21/ja-check.dat.gz",
+      "cc.dat.gz": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ja-2026-07-21/ja-cc.dat.gz",
+      "tid.dat.gz": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ja-2026-07-21/ja-tid.dat.gz",
+      "tid_pos.dat.gz": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ja-2026-07-21/ja-tid_pos.dat.gz",
+      "tid_map.dat.gz": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ja-2026-07-21/ja-tid_map.dat.gz",
+      "unk.dat.gz": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ja-2026-07-21/ja-unk.dat.gz",
+      "unk_pos.dat.gz": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ja-2026-07-21/ja-unk_pos.dat.gz",
+      "unk_map.dat.gz": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ja-2026-07-21/ja-unk_map.dat.gz",
+      "unk_char.dat.gz": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ja-2026-07-21/ja-unk_char.dat.gz",
+      "unk_compat.dat.gz": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ja-2026-07-21/ja-unk_compat.dat.gz",
+      "unk_invoke.dat.gz": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/ja-2026-07-21/ja-unk_invoke.dat.gz"
+    }
   }
 }
