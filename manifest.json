@@ -1,1 +1,9 @@
-{}
+{
+  "fr": {
+    "version": "2026-07-21",
+    "assets": {
+      "dictionary.json": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/fr-2026-07-21/fr-dictionary.json",
+      "lemma-lookup.json": "https://github.com/fluxora-labs/vidlingo-dictionaries/releases/download/fr-2026-07-21/fr-lemma-lookup.json"
+    }
+  }
+}
